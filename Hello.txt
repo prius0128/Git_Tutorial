@@ -2,6 +2,10 @@
 2
 3
 4
+<<<<<<< HEAD
 revert 5
 revert 6
 revert 7
+=======
+revert 5
+>>>>>>> parent of 1d99bb9 (revert 6)
